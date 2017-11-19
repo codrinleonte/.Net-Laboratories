@@ -1,0 +1,4 @@
+ADD-migration AddValueField
+Update-DataBase
+
+*BaseIntegrationTests

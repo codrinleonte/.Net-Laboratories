@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "af6d22fc63f12deeef7afc3976f0a81c3c55f020"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "LabIProject/1.0.0": {
+        "dependencies": {
+          "OpenCover": "4.6.519"
+        },
+        "runtime": {
+          "LabIProject.dll": {}
+        }
+      },
+      "OpenCover/4.6.519": {}
+    }
+  },
+  "libraries": {
+    "LabIProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OpenCover/4.6.519": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-oReudTijK4ghbd1GNTzl7Su2KzOufj2evTS5PTGAGC5ThfrThcInB/t9w2ISkcEacOsgLQTdG+PO0UUUGZ+zTw==",
+      "path": "opencover/4.6.519",
+      "hashPath": "opencover.4.6.519.nupkg.sha512"
+    }
+  }
+}

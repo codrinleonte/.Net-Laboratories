@@ -1,0 +1,9 @@
+D:\facultate\anul III\sem I\.Net Programming\Lab II\DomainModel\DomainModel\DomainModel\bin\Debug\netcoreapp2.0\DomainModel.deps.json
+D:\facultate\anul III\sem I\.Net Programming\Lab II\DomainModel\DomainModel\DomainModel\bin\Debug\netcoreapp2.0\DomainModel.dll
+D:\facultate\anul III\sem I\.Net Programming\Lab II\DomainModel\DomainModel\DomainModel\bin\Debug\netcoreapp2.0\DomainModel.pdb
+D:\facultate\anul III\sem I\.Net Programming\Lab II\DomainModel\DomainModel\DomainModel\obj\Debug\netcoreapp2.0\DomainModel.csprojResolveAssemblyReference.cache
+D:\facultate\anul III\sem I\.Net Programming\Lab II\DomainModel\DomainModel\DomainModel\obj\Debug\netcoreapp2.0\DomainModel.csproj.CoreCompileInputs.cache
+D:\facultate\anul III\sem I\.Net Programming\Lab II\DomainModel\DomainModel\DomainModel\obj\Debug\netcoreapp2.0\DomainModel.AssemblyInfoInputs.cache
+D:\facultate\anul III\sem I\.Net Programming\Lab II\DomainModel\DomainModel\DomainModel\obj\Debug\netcoreapp2.0\DomainModel.AssemblyInfo.cs
+D:\facultate\anul III\sem I\.Net Programming\Lab II\DomainModel\DomainModel\DomainModel\obj\Debug\netcoreapp2.0\DomainModel.dll
+D:\facultate\anul III\sem I\.Net Programming\Lab II\DomainModel\DomainModel\DomainModel\obj\Debug\netcoreapp2.0\DomainModel.pdb

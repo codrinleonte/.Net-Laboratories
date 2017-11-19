@@ -1,0 +1,16 @@
+D:\facultate\anul III\sem I\.Net Programming\Lab II\DomainModel\DomainModel\DomainModelTests\obj\Debug\netcoreapp2.0\DomainModelTests.csprojResolveAssemblyReference.cache
+D:\facultate\anul III\sem I\.Net Programming\Lab II\DomainModel\DomainModel\DomainModelTests\obj\Debug\netcoreapp2.0\DomainModelTests.csproj.CoreCompileInputs.cache
+D:\facultate\anul III\sem I\.Net Programming\Lab II\DomainModel\DomainModel\DomainModelTests\obj\Debug\netcoreapp2.0\DomainModelTests.AssemblyInfoInputs.cache
+D:\facultate\anul III\sem I\.Net Programming\Lab II\DomainModel\DomainModel\DomainModelTests\obj\Debug\netcoreapp2.0\DomainModelTests.AssemblyInfo.cs
+D:\facultate\anul III\sem I\.Net Programming\Lab II\DomainModel\DomainModel\DomainModelTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\facultate\anul III\sem I\.Net Programming\Lab II\DomainModel\DomainModel\DomainModelTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+D:\facultate\anul III\sem I\.Net Programming\Lab II\DomainModel\DomainModel\DomainModelTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+D:\facultate\anul III\sem I\.Net Programming\Lab II\DomainModel\DomainModel\DomainModelTests\bin\Debug\netcoreapp2.0\DomainModelTests.deps.json
+D:\facultate\anul III\sem I\.Net Programming\Lab II\DomainModel\DomainModel\DomainModelTests\bin\Debug\netcoreapp2.0\DomainModelTests.runtimeconfig.json
+D:\facultate\anul III\sem I\.Net Programming\Lab II\DomainModel\DomainModel\DomainModelTests\bin\Debug\netcoreapp2.0\DomainModelTests.runtimeconfig.dev.json
+D:\facultate\anul III\sem I\.Net Programming\Lab II\DomainModel\DomainModel\DomainModelTests\bin\Debug\netcoreapp2.0\DomainModelTests.dll
+D:\facultate\anul III\sem I\.Net Programming\Lab II\DomainModel\DomainModel\DomainModelTests\bin\Debug\netcoreapp2.0\DomainModelTests.pdb
+D:\facultate\anul III\sem I\.Net Programming\Lab II\DomainModel\DomainModel\DomainModelTests\bin\Debug\netcoreapp2.0\DomainModel.dll
+D:\facultate\anul III\sem I\.Net Programming\Lab II\DomainModel\DomainModel\DomainModelTests\bin\Debug\netcoreapp2.0\DomainModel.pdb
+D:\facultate\anul III\sem I\.Net Programming\Lab II\DomainModel\DomainModel\DomainModelTests\obj\Debug\netcoreapp2.0\DomainModelTests.dll
+D:\facultate\anul III\sem I\.Net Programming\Lab II\DomainModel\DomainModel\DomainModelTests\obj\Debug\netcoreapp2.0\DomainModelTests.pdb

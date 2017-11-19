@@ -1,0 +1,9 @@
+D:\facultate\anul III\sem I\.Net Programming\Lab I\Lab I Project\LabIProject\bin\Debug\netcoreapp2.0\LabIProject.deps.json
+D:\facultate\anul III\sem I\.Net Programming\Lab I\Lab I Project\LabIProject\bin\Debug\netcoreapp2.0\LabIProject.dll
+D:\facultate\anul III\sem I\.Net Programming\Lab I\Lab I Project\LabIProject\bin\Debug\netcoreapp2.0\LabIProject.pdb
+D:\facultate\anul III\sem I\.Net Programming\Lab I\Lab I Project\LabIProject\obj\Debug\netcoreapp2.0\LabIProject.csprojResolveAssemblyReference.cache
+D:\facultate\anul III\sem I\.Net Programming\Lab I\Lab I Project\LabIProject\obj\Debug\netcoreapp2.0\LabIProject.csproj.CoreCompileInputs.cache
+D:\facultate\anul III\sem I\.Net Programming\Lab I\Lab I Project\LabIProject\obj\Debug\netcoreapp2.0\LabIProject.AssemblyInfoInputs.cache
+D:\facultate\anul III\sem I\.Net Programming\Lab I\Lab I Project\LabIProject\obj\Debug\netcoreapp2.0\LabIProject.AssemblyInfo.cs
+D:\facultate\anul III\sem I\.Net Programming\Lab I\Lab I Project\LabIProject\obj\Debug\netcoreapp2.0\LabIProject.dll
+D:\facultate\anul III\sem I\.Net Programming\Lab I\Lab I Project\LabIProject\obj\Debug\netcoreapp2.0\LabIProject.pdb

@@ -1,0 +1,18 @@
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\Common\bin\Debug\netcoreapp2.0\Common.deps.json
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\Common\bin\Debug\netcoreapp2.0\Common.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\Common\bin\Debug\netcoreapp2.0\Common.pdb
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\Common\obj\Debug\netcoreapp2.0\Common.csprojResolveAssemblyReference.cache
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\Common\obj\Debug\netcoreapp2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\Common\obj\Debug\netcoreapp2.0\Common.AssemblyInfoInputs.cache
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\Common\obj\Debug\netcoreapp2.0\Common.AssemblyInfo.cs
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\Common\obj\Debug\netcoreapp2.0\Common.dll
+C:\Users\folariu\Documents\Visual Studio 2017\Projects\Solution4\Common\obj\Debug\netcoreapp2.0\Common.pdb
+D:\facultate\anul III\sem I\.Net Programming\Kata I\Solution4\Common\bin\Debug\netcoreapp2.0\Common.deps.json
+D:\facultate\anul III\sem I\.Net Programming\Kata I\Solution4\Common\bin\Debug\netcoreapp2.0\Common.dll
+D:\facultate\anul III\sem I\.Net Programming\Kata I\Solution4\Common\bin\Debug\netcoreapp2.0\Common.pdb
+D:\facultate\anul III\sem I\.Net Programming\Kata I\Solution4\Common\obj\Debug\netcoreapp2.0\Common.csprojResolveAssemblyReference.cache
+D:\facultate\anul III\sem I\.Net Programming\Kata I\Solution4\Common\obj\Debug\netcoreapp2.0\Common.csproj.CoreCompileInputs.cache
+D:\facultate\anul III\sem I\.Net Programming\Kata I\Solution4\Common\obj\Debug\netcoreapp2.0\Common.AssemblyInfoInputs.cache
+D:\facultate\anul III\sem I\.Net Programming\Kata I\Solution4\Common\obj\Debug\netcoreapp2.0\Common.AssemblyInfo.cs
+D:\facultate\anul III\sem I\.Net Programming\Kata I\Solution4\Common\obj\Debug\netcoreapp2.0\Common.dll
+D:\facultate\anul III\sem I\.Net Programming\Kata I\Solution4\Common\obj\Debug\netcoreapp2.0\Common.pdb

@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "e423a22f05b701cc238240549bae1b211887f03f"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "Common/1.0.0": {
+        "dependencies": {
+          "Ensure.That": "6.0.1"
+        },
+        "runtime": {
+          "Common.dll": {}
+        }
+      },
+      "Ensure.That/6.0.1": {
+        "runtime": {
+          "lib/netstandard1.1/Ensure.That.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ensure.That/6.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yVa9jC7m2ULEKh8tPaJO+3ozmWZAwI8Lh6QyHkIbWE3wVXckotd6JX/h0LXJ8npoDYjt1QiWTW4NO18ce1gY6A==",
+      "path": "ensure.that/6.0.1",
+      "hashPath": "ensure.that.6.0.1.nupkg.sha512"
+    }
+  }
+}

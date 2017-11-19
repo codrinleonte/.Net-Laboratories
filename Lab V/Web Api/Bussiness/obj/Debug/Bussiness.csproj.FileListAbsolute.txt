@@ -1,0 +1,2 @@
+D:\facultate\anul III\sem I\.Net Programming\Lab V\Web Api\Bussiness\obj\Debug\Bussiness.csprojResolveAssemblyReference.cache
+D:\facultate\anul III\sem I\.Net Programming\Lab V\Web Api\Bussiness\obj\Debug\Bussiness.csproj.CoreCompileInputs.cache

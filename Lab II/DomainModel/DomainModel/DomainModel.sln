@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainModel", "DomainModel\DomainModel.csproj", "{5D4CB071-01CC-444A-A04F-746BBE4962D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainModelTests", "DomainModelTests\DomainModelTests.csproj", "{8AE9A59E-19B1-4B3E-9C94-DB18619B3B9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D4CB071-01CC-444A-A04F-746BBE4962D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D4CB071-01CC-444A-A04F-746BBE4962D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D4CB071-01CC-444A-A04F-746BBE4962D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D4CB071-01CC-444A-A04F-746BBE4962D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE9A59E-19B1-4B3E-9C94-DB18619B3B9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE9A59E-19B1-4B3E-9C94-DB18619B3B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE9A59E-19B1-4B3E-9C94-DB18619B3B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE9A59E-19B1-4B3E-9C94-DB18619B3B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17533F55-589E-4277-98D2-A4A438635510}
+	EndGlobalSection
+EndGlobal

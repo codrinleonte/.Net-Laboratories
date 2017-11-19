@@ -1,0 +1,17 @@
+
+
+                   ---------------------------
+CLIENT ---------->      Presentation Layer   
+				|
+				|
+				|
+			        #
+			 Business Layer
+				|
+				|			
+				|
+				#
+			Model  #--- Context     				 #-------------  Database
+		----------------------------------	
+
+Testing : Swagger + Middleware
